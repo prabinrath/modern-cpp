@@ -1,0 +1,8 @@
+**/bin
+**/build
+**/lib
+**/.vscode
+HomeWorks/data/test_folder
+**.exe
+**.o
+**.a
